@@ -6,7 +6,7 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=github_dark&layout=compact)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rykerpierce296-prog&theme=github_dark&layout=compact)](https://github.com/rykerpierce296-prog)
 
 **Programming for 4 years**
 
